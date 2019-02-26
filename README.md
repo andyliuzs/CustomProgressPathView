@@ -1,5 +1,5 @@
 # CustomProgressPathView
-自定义view之仿支付宝支付成功失败动画的实现
+自定义View带动态切换状态的ProgressView
 
 代码参考/修改源代码 https://link.jianshu.com/?t=https://github.com/Jakemesdg/CustomViewPath
 
